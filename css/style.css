@@ -1,0 +1,55 @@
+@import "null.css";
+
+@import url('https://fonts.googleapis.com/css?family=Lato:regular,700,900&display=swap');
+
+.wrapper{
+	width: 810px;
+	margin: 0 auto;
+}
+
+body{
+	color: #424551;
+	font-family: Lato, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 160%;
+	font-size: 16px;
+}
+.main-title{
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	color: #1E212C;
+	margin: 118px 0 92px 0;
+}
+.main-text{
+	margin-top: 60px;
+}
+.text-bold{
+	font-family: Lato;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 150%;
+
+}
+.text-text{
+	margin: 24px 0 48px 0;
+}
+.text-2{
+	padding-top: 30px;
+}
+
+.text-bold.paragrahp{
+	margin-bottom: 48px;
+	padding-left: 58px;
+}
+.list-items{
+	margin: 24px 0 24px 0;
+	padding-left: 32px;
+}
+.item{
+	padding-bottom: 4px;
+}
+
+
+
